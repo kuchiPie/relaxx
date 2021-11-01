@@ -1,4 +1,4 @@
-# relaxxflutter
+# relaxx
 
 A new Flutter project.
 
